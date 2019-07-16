@@ -1,0 +1,7 @@
+.DragBase {
+  display: flex;
+  width: 900px;
+  height: 400px;
+  margin: 40px;
+  background-color: #262626;
+}
